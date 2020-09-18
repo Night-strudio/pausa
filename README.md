@@ -1,0 +1,2 @@
+# pausa
+juego pausa
